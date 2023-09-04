@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ffmpeg": "^0.0.4",
+    "puppeteer": "^21.1.1",
+    "puppeteer-stream": "^3.0.7"
+  }
+}

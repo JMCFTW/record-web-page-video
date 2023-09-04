@@ -1,0 +1,2 @@
+- npm i
+- node record-page.js && open testout.mp4
