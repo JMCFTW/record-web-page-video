@@ -1,2 +1,4 @@
-- npm i
-- node record-page.js && open testout.mp4
+- make up
+- make log
+- make copy
+- make down
