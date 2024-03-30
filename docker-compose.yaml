@@ -1,0 +1,7 @@
+version: '3.6'
+services:
+  record-page:
+    image: record-page
+    container_name: record-page
+    build: 
+      context: ./
